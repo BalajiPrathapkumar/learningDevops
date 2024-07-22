@@ -1,0 +1,8 @@
+AWS
+Linux
+cloud computing
+
+Checked status of a file
+commit it
+again add a statement -cloud computing 
+commit it
